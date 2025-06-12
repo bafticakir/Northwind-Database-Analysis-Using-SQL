@@ -4,6 +4,8 @@ This project explores the Northwind sample database using various SQL queries to
 
 ---
 
+
+
 ## 🧭 Database Exploration
 
 We start by examining the structure of key tables:
