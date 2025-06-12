@@ -227,4 +227,4 @@ ORDER BY NoOfProducts;
 
 ---
 
-> Created with 🔥 by **Bafti Çakır**
+> Created 🔥 by **Bafti Çakır**
